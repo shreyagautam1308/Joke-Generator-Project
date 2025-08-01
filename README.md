@@ -6,5 +6,3 @@ This Python GUI app fetches jokes from the JokeAPI and displays them using Tkint
 - Select joke category (Programming, Pun, etc.)
 - Fetch random jokes using API
 - Simple and fun GUI
-
-## How to Run
