@@ -1,2 +1,10 @@
-# Joke-Generator-Project
-I made a python project for generating random jokes using python API. To see the code visit this repository.
+# Joke Generator App 😂
+
+This Python GUI app fetches jokes from the JokeAPI and displays them using Tkinter.
+
+## Features
+- Select joke category (Programming, Pun, etc.)
+- Fetch random jokes using API
+- Simple and fun GUI
+
+## How to Run
